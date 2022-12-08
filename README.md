@@ -17,7 +17,7 @@ mitad de alumnos siquiera toman la decicion de enviar los resultados de la prime
 
 
 
->link del video: 
+>link del video: https://www.youtube.com/watch?v=v4k2jEXIcBw&feature=youtu.be
 
 
 >Hipotesis y planteo de solucion:
