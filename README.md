@@ -20,4 +20,10 @@ mitad de alumnos siquiera toman la decicion de enviar los resultados de la prime
 >link del video: 
 
 
->Hipotesis y planteo de solucion:</>/ asdasd
+>Hipotesis y planteo de solucion:
+
+Analizar el mapa completo del recorrido de los alumnos dentro del bootcamp, de manera tal que consideremos de facto que 
+lo que se genera en el tiempo es un aumento en el comprosimo de los alumnos, si buscamos que el comprosimo sae desde el dia 0, deberiamos de 
+tener en cuenta las tareas como metodo evaluativo junto con el chekpoint previo al ingreso de la carrera, considero que al principio podriamos ver
+que los numeros son menores a que cuando no es obligatorio el envio de resultados de las tareas, pero tambien podriamos esperar que la consistencia sea mayor
+a la actual, (hablando de la consistencia de alumnos y entregables previo al primer checkpoint)
