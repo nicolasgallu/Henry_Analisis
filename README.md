@@ -1,4 +1,4 @@
-![Alt](imagenes/sismologic.png)
+![Alt](imagen/portada.png)
 
 
 
@@ -14,6 +14,9 @@ mitad de alumnos siquiera toman la decicion de enviar los resultados de la prime
   
 
 >link del dashboard: https://app.powerbi.com/groups/me/reports/c3c96ddc-8d3c-4a42-a90f-e48d9d91859d/ReportSection?ctid=59f183c6-795a-4ab6-a2a7-ae4469d98922
+
+
+
 >link del video: 
 
 
