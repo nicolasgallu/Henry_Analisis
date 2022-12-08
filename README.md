@@ -7,7 +7,7 @@
 # Introduccion
 
 En este proyecto, analise el conjunto de datos encontrados en los datasets "forks_anonim" y "grades_anonim", desde lo fundamental
-respondio a 2 preguntas segun mi analisis de los datos, el echo de que el grado de dificultad de la tarea puede e impacta evidentemente en la actividad
+respondo a 2 preguntas importantes, segun mi analisis de los datos, el echo de que el grado de dificultad de la tarea puede e impacta evidentemente en la actividad
 de alumnos dentro de los "submit" de los repositorios previo al checkpoint para entrar a la carrera, y que partiendo desde los datos de forkeo, menos de la
 mitad de alumnos siquiera toman la decicion de enviar los resultados de la primera tarea.
 
