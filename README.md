@@ -1,4 +1,4 @@
-![Alt](imagenes/sismologic.png)
+![Alt](imagen/portada.png)
 
 
 
