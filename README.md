@@ -1,4 +1,4 @@
-![Alt](imagen/portada.png)
+![Alt](imagen/portada_henry.png)
 
 
 
