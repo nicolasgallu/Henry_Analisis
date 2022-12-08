@@ -27,3 +27,14 @@ lo que se genera en el tiempo es un aumento en el comprosimo de los alumnos, si 
 tener en cuenta las tareas como metodo evaluativo junto con el chekpoint previo al ingreso de la carrera, considero que al principio podriamos ver
 que los numeros son menores a que cuando no es obligatorio el envio de resultados de las tareas, pero tambien podriamos esperar que la consistencia sea mayor
 a la actual, (hablando de la consistencia de alumnos y entregables previo al primer checkpoint)
+
+
+>Informacion adicional:
+
+Seria importante poder contar con datos con un mayor registro historico, a fin de poder afinar ciertas medidas como el momento en el que se forkean los archivos
+y el momento en que los alumnos empiezan a subir los resultados de la primer tarea, ya que por el momento solo consideramos que menos de la mitad de estos toma 
+el compromiso de hacerlo.
+
+Tambien seria importante analizar de forma detenida no todos los submits de losa alumnos sino solo el ultimo echo por ellos, esto para no tener en consideracion
+un total de submits , ya que con que tengamos algunos que de manera masiva generen submits podria romper nuestro analisis sobre si realmente existe un crecimiento
+o decrecimiento a la hora de analizar la actividad de los alumnos y el engagement.
