@@ -20,4 +20,4 @@ mitad de alumnos siquiera toman la decicion de enviar los resultados de la prime
 >link del video: 
 
 
->Hipotesis y planteo de solucion:> asdasd
+>Hipotesis y planteo de solucion:< asdasd
