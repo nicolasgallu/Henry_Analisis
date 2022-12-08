@@ -38,3 +38,9 @@ el compromiso de hacerlo.
 Tambien seria importante analizar de forma detenida no todos los submits de losa alumnos sino solo el ultimo echo por ellos, esto para no tener en consideracion
 un total de submits , ya que con que tengamos algunos que de manera masiva generen submits podria romper nuestro analisis sobre si realmente existe un crecimiento
 o decrecimiento a la hora de analizar la actividad de los alumnos y el engagement.
+
+Tener en cuenta que menos submits no necesariamente implica menos actividad en general de los alumnos (aunque eso termina de ser cierto gracias al analisis de la 
+pagina numero 2), hay que recordar que uno puede con el tiempo ir mejorando a la hora de programar, y que puede pasar que al principio la enorme cantidad de submits
+ocurran debido al desconocimiento de github y ansiedades del alumno de querer subir sus resultados y cheuquear rapido sus respuestas negativas con tal de entender de forma acelerada porque sus resultados son negativos, y consolidar su conocimiento con sus resultados positivos. Al pasar el tiempo puede suceder de que 
+esten mas seguros y acepten el reto de ser mucho mas recursivos antes de entregar la tarea y verificar de forma rapida y casi por quitarse la tarea de encima de
+porque ciertos resultados son incorrectos.
